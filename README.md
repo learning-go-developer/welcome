@@ -1,5 +1,5 @@
 # learning-yandex-practicum-go-developer
-Welcome repository with info for learning purposes only.
+Welcome repository for learning purposes only.
 
 ---
 
