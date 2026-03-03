@@ -33,7 +33,7 @@ Use at your own risk.
 ##### «Для получения доступа к ревью приватного репозитория ревьюер обязан предоставить свой GitHub‑ник. После получения ника студент добавит ревьюера в коллабораторы. Только после этого ссылка на Pull Request станет доступна. Куратор уведомляется о данном порядке в момент проведения ревью.»
 
 - Pull request successfully merged and closed
-    - go1fl-4-sprint-final
-    - go1fl-5-sprint-final
+    - [go1fl-4-sprint-final](https://github.com/learning-go-developer/go1fl-4-sprint-final)
+    - [go1fl-5-sprint-final](https://github.com/learning-go-developer/go1fl-5-sprint-final)
 - Sent for review
     - empty
