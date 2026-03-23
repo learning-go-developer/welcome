@@ -36,11 +36,11 @@
 - **As Is:** All repositories and content are provided "as is" without any warranties.
 - **Copyright:** All rights reserved. Copying, redistribution, or unauthorized use of any materials (code, docs, or private practicums) is **strictly prohibited**.
 - **Confidentiality:** Private repositories are for authorized review only.
-- **Liability:** Use at your own risk. The organization is not liable for any damages or data loss.
+- **Liability:** Use at your own risk. Neither the **Organization** nor the **Author/Owner** shall be liable for any direct or indirect damages, data loss, or other consequences arising from the use of these materials.
 
 #### Русский
 - **Как есть:** Все репозитории и материалы предоставляются «как есть» без каких-либо гарантий.
 - **Авторское право:** Все права защищены. Копирование, распространение или несанкционированное использование любых материалов (кода, документации или приватных практикумов) **строго запрещено**.
 - **Конфиденциальность:** Приватные репозитории доступны только для авторизованного ревью.
-- **Ответственность:** Использование на свой страх и риск. Организация не несет ответственности за любой ущерб или потерю данных.
+- **Ответственность:** Использование на свой страх и риск. Ни **Организация**, ни **Автор/Владелец** не несут ответственности за любые прямые или косвенные убытки, потерю данных или иные последствия, возникшие в результате использования данных материалов.
 </details>
