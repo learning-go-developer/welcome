@@ -36,4 +36,4 @@ Use at your own risk.
     - [go1fl-4-sprint-final](https://github.com/learning-go-developer/go1fl-4-sprint-final)
     - [go1fl-5-sprint-final](https://github.com/learning-go-developer/go1fl-5-sprint-final)
 - Sent for review
-    - empty
+    - [go1fl-6-sprint-final](https://github.com/learning-go-developer/go1fl-6-sprint-final)
