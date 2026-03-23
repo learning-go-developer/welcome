@@ -33,12 +33,14 @@
 <summary>Нажмите, чтобы развернуть / Click to expand</summary>
 
 #### English
-All repositories are provided "as is". 
-- Private repositories are **confidential**. Copying or distributing any part is **strictly prohibited**.
-- Use at your own risk.
+- **As Is:** All repositories and content are provided "as is" without any warranties.
+- **Copyright:** All rights reserved. Copying, redistribution, or unauthorized use of any materials (code, docs, or private practicums) is **strictly prohibited**.
+- **Confidentiality:** Private repositories are for authorized review only.
+- **Liability:** Use at your own risk. The organization is not liable for any damages or data loss.
 
 #### Русский
-Все репозитории предоставляются «как есть».
-- Приватные репозитории являются **конфиденциальными**. Копирование или распространение любых частей **строго запрещено**.
-- Использование на свой страх и риск.
+- **Как есть:** Все репозитории и материалы предоставляются «как есть» без каких-либо гарантий.
+- **Авторское право:** Все права защищены. Копирование, распространение или несанкционированное использование любых материалов (кода, документации или приватных практикумов) **строго запрещено**.
+- **Конфиденциальность:** Приватные репозитории доступны только для авторизованного ревью.
+- **Ответственность:** Использование на свой страх и риск. Организация не несет ответственности за любой ущерб или потерю данных.
 </details>
